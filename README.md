@@ -1,4 +1,4 @@
-# Product Catalog Service
+# Product Catalog API
 
 Product Catalog Service is a RESTful API built with Spring Boot that provides user authentication using JWT and product management features with Spring Cache to improve data retrieval performance.
 
@@ -53,7 +53,7 @@ src
 ### 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/anggrainyanggi40-bot/productcatalog-api.git
 ```
 
 ### 2. Open Project
